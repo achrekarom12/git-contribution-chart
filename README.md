@@ -1,5 +1,7 @@
 # github-contribution-chart
 
+[![npm version](https://img.shields.io/npm/v/@achrekarom/github-contribution-chart.svg)](https://www.npmjs.com/package/@achrekarom/github-contribution-chart)
+
 A tiny, headless npm package that:
 1. **Fetches** your GitHub contribution data via the GraphQL API.
 2. **Renders** it as a heatmap grid using a zero-dependency React component.
