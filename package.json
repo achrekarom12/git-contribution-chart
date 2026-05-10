@@ -9,7 +9,7 @@
     "heatmap",
     "react"
   ],
-"publishConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "homepage": "https://github.com/achrekarom12/git-contribution-chart#readme",
@@ -71,7 +71,7 @@
     "postcss-load-config": "^6.0.1",
     "readdirp": "^4.1.2",
     "resolve-from": "^5.0.0",
-    "rollup": "^4.60.2",
+    "rollup": "^4.60.3",
     "source-map": "^0.7.6",
     "sucrase": "^3.35.1",
     "thenify": "^3.3.1",
@@ -80,15 +80,15 @@
     "tinyglobby": "^0.2.16",
     "tree-kill": "^1.2.2",
     "ts-interface-checker": "^0.1.13",
-    "ufo": "^1.6.3",
-    "undici-types": "^7.19.2"
+    "ufo": "^1.6.4",
+    "undici-types": "^7.25.0"
   },
   "devDependencies": {
-    "@types/node": "^25.6.0",
-    "@types/react": "^19",
-    "dotenv": "^16.0.0",
-    "tsup": "^8.0.0",
-    "typescript": "^5"
+    "@types/node": "^25.6.2",
+    "@types/react": "^19.2.14",
+    "dotenv": "^16.6.1",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
   },
   "peerDependencies": {
     "react": ">=17.0.0"
