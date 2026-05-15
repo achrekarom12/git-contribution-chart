@@ -5,8 +5,8 @@
 A tiny, headless npm package that:
 1. **Fetches** your GitHub contribution data via the GraphQL API.
 2. **Renders** it as a heatmap grid using a zero-dependency React component.
-
-No third-party chart library required. Full TypeScript support.
+3. Requires **No** third-party chart libraries.
+4. fully supports Typescript.
 
 ---
 
