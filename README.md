@@ -94,7 +94,7 @@ export default async function Page() {
 ## GitHub Token
 
 Create a fine-grained token at [github.com/settings/tokens](https://github.com/settings/tokens) with **read-only** access to your public data. Set it as `GITHUB_TOKEN` in your environment.
-
+Make sure to rotate your tokens once every six months.
 ---
 
 ## License
